@@ -118,7 +118,6 @@ result_image = face_swapper(
 ## 🧠 Technical Notes
 
 * **Model used for face swap:** `inswapper_128.onnx`
-* **Face analysis model:** `buffalo_l`
 * **Diffusers pipeline:** `StableDiffusionImg2ImgPipeline`
 * **All steps compatible with Google Colab GPU runtime**
 
