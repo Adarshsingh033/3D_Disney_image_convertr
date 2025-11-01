@@ -8,8 +8,10 @@ It validates uploaded images, detects faces, analyzes emotions, creates **Disney
 Perfect for experimenting with **AI-based avatar creation**, **face re-styling**, or **digital character generation**.
 
 ---
-## WORK FLOW
-Workflow Diagram
+
+## 🧠 Workflow Diagram
+
+```
 [Upload Image]
       │
       ▼
@@ -32,7 +34,7 @@ Workflow Diagram
       │
       ▼
 [Final Disney Face Swapped Image]
-
+```
 
 ##  Features
 
